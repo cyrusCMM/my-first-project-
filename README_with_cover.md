@@ -72,7 +72,27 @@ Airplanes dominated the dataset (~28,000 incidents), followed by helicopters. Th
 ### 3. Correlation between Severity and Survival  (fig 2: scatter graph
 We observed a strong negative correlation of r = -0.91 between the Severity Index and Survival Rate, indicating that aircraft suffering more damage tend to result in lower passenger survivability. Interestingly, flights categorized under "Private Enterprise" consistently outperformed others, clustering in the high-survival, low-severity quadrant. This suggests that private aviation—possibly due to more cautious flight profiles or better maintenance discipline—may be inherently safer.
 ![Severity vs Survival Scatter](images/fig_severity_vs_survival.png)
+To evaluate aircraft risk in a more structured and insightful manner, we applied a two-dimensional quadrant analysis that maps aircraft models and types across Severity Index (x-axis) and Survival Index (y-axis). This approach classifies each aircraft into one of four distinct quadrants:
 
+Safest Zone (Low Severity, High Survival)
+
+Survivable but Costly (High Severity, High Survival)
+
+Low-Impact High-Risk (Low Severity, Low Survival)
+
+Danger Zone (High Severity, Low Survival)
+
+This analytical framework provides a visually intuitive mapping of risk that transcends individual crash counts or anecdotal perceptions. It highlights not just what went wrong, but how survivable those events were, offering a dual-lens view of operational risk.
+
+What makes this quadrant approach powerful is its ability to:
+
+Distinguish safe aircraft configurations from dangerous ones with surgical precision.
+
+Cluster aircraft by structural and engineering traits, not just nameplates.
+
+Reveal risk hotspots among turbine-powered helicopters, amateur-built kits, or specific engine categories.
+
+Support smarter procurement by prioritizing models in the Safest Zone with favorable design characteristics (e.g., reciprocating engines, certified builds).
 ![Quadrant Safety Analysis](images/fig_safety_quadrants_grid.png)
 Plotting aircraft across the four risk quadrants revealed that non-amateur builds with reciprocating engines tended to dominate the Safest Zone (high survival, low severity). In contrast, turbine-powered helicopters and amateur-built kits frequently appeared in the Danger Zone. This quadrant analysis enabled us to isolate safety not just by aircraft name, but also by structural and mechanical characteristics, aiding in informed procurement.
 
