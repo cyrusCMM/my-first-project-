@@ -1,6 +1,7 @@
 
 
-![Cover Image](images/cover_image.png)
+![Cover Image](images/cover_image.png.png)
+
 
 
 # Strategic Aircraft Risk Analysis for Investment Decision
