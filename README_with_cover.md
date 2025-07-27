@@ -138,7 +138,7 @@ Future studies can extend this model by incorporating weather, pilot age, and ma
 
 
 Explore the live dashboard here 👉 [Click to View Dashboard](https://public.tableau.com/app/profile/cyrus.mutuku/viz/vizzes_17535842749270/Aircraftsafetydashboard?publish=yes)
-
+s
 The dashboard allows interactive filtering by engine type, number of engines, aircraft make, and more. Use it to identify the safest aircraft profiles based on survival and severity indices.
 
 
