@@ -132,3 +132,13 @@ o	We developed and applied two critical indices: Severity and Survival. The stro
 o	We identified a subset of aircraft that scored 100% in survivability and 0% in structural damage. These configurations, particularly the NORTH AMERICAN AT-6, emerged as top recommendations.
 Policy Implication: Decision-makers are now equipped with a repeatable, transparent process to select low-risk aircraft based on historical evidence. This approach strengthens due diligence for capital expenditure, insurance negotiations, and operational strategy in aviation investments.
 Future studies can extend this model by incorporating weather, pilot age, and maintenance data to deepen causal understanding.
+
+
+## ✈️ Interactive Dashboard
+
+
+Explore the live dashboard here 👉 [Click to View Dashboard](https://public.tableau.com/app/profile/cyrus.mutuku/viz/vizzes_17535842749270/Aircraftsafetydashboard?publish=yes)
+
+The dashboard allows interactive filtering by engine type, number of engines, aircraft make, and more. Use it to identify the safest aircraft profiles based on survival and severity indices.
+
+
